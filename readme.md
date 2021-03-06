@@ -13,14 +13,19 @@ When referencing Kurort, use our logo mark. Do not modify our logos in any way. 
 Our logo mark is also available in [black and white](https://github.com/kurort/brand/blob/main/kurort.svg). All rules for our primary logo apply to these as well.
 
 
-## Style reference
+## Colors
 
-![Example Logo](https://github.com/kurort/brand/blob/main/style-color.png)
+![Example Colors](https://github.com/kurort/brand/blob/main/style-color.png)
 
 - Background:   #f0cf9f 
 - Accent 1:     #3b6069 
 - Accent 2:     #a8211d 
 - Accent 3:     #26282c
+
+
+## Fonts
+
+https://www.jetbrains.com/lp/mono/
 
 -----
 Logo and branding author Dmitry Skirta
