@@ -15,6 +15,8 @@ Our logo mark is also available in [black and white](https://github.com/kurort/b
 
 ## Colors
 
+Four main colors are used in the official Kururt digital assets and collateral.
+
 ![Example Colors](https://github.com/kurort/brand/blob/main/style-color.png)
 
 - Background:   #f0cf9f 
@@ -25,7 +27,8 @@ Our logo mark is also available in [black and white](https://github.com/kurort/b
 
 ## Fonts
 
-https://www.jetbrains.com/lp/mono/
+The JetBrains Mono font family is used throughout the site and marketing material. JetBrains Mono is free and open-source
+font family. It can be downloaded from [https://www.jetbrains.com/lp/mono](https://www.jetbrains.com/lp/mono).
 
 -----
 Logo and branding author Dmitry Skirta
